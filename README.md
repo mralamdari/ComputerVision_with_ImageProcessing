@@ -1,2 +1,2 @@
 # ComputerVision with ImageProcessing
- In this repository,
+ In this repository, you will learn about 
