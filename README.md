@@ -4,6 +4,7 @@
  # Image Processing:
  - RGB_Gray
  - Rotation
+ 
  ## TO-DO list:
  - Filtering
  - Edge detection
